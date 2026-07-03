@@ -11,7 +11,6 @@ A modern Android note-taking application built in with Jetpack Compose that enab
  | Jetpack Compose | UI |
  | Hilt | Dependency injection |
  | Room | Local Database |
- | Retrofit | API Communication |
  | Navigation Compose | Navigation |
  | Coroutiens | Asynchronous Programming |
  | Flow | Reactive UI |
